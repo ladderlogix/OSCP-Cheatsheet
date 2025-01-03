@@ -9,6 +9,11 @@
 
 # General
 
+## NMAP COMMAND
+
+```bash
+nmap target -p- --vv -A -T4 --script vuln
+```
 
 <aside>
 💡 For Finding all important files in Windows (CTF Style)
